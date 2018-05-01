@@ -1,0 +1,2 @@
+# myAndroidCheckers
+Checker game
