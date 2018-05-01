@@ -1,0 +1,3 @@
+[submodule "app/src/main/java/CheckersFramework"]
+	path = app/src/main/java/CheckersFramework
+	url = https://github.com/OrangeCobras/CheckersFramework
